@@ -49,7 +49,8 @@ Photonics and Optoinformatics - Southern Federal University, Physics Department,
  - EEG signal analysis, feature extraction - Matlab
  - microcontroller(PIC32) programming - C language
  - com-port interaction - pascal/Delphi(win32)
- - parametric 3d modelling (Rhino grasshopper, autocad) / teaching
+ - once tried inline assembly in Delphi
+ - parametric 3d modelling / teaching (Rhino grasshopper, autocad) 
  - billing system debugging (perl)
  - PCB design and prototyping
  - CNC machining
