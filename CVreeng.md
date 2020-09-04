@@ -13,7 +13,7 @@ tg:@furgalev
 
 ## SUMMARY
 
-Big computer science fan with lack of experience in real projects.
+Software developer with basic phisicist and some medical bacground.
 
 
 ## EDUCATION
@@ -43,22 +43,14 @@ Photonics and Optoinformatics - Southern Federal University, Physics Department,
     ( Windows, Linux, cmd/bash scripting, common tools)
 
 
-## WORKING EXPERIENCE
+## EXPERIENCE
 
- - opto-acoustic signal analysis
- - EEG signal analysis, feature extraction
- - microcontroller programming (PIC)
- - com-port interaction (win32/Delphi)
- - parametric 3d modelling (Rhino grasshopper, autocad) / teaching
+ - opto-acoustic signal analysis - Matlab, Delphi
+ - EEG signal analysis, feature extraction - Matlab
+ - microcontroller(PIC32) programming - C language
+ - com-port interaction - pascal/Delphi(win32)
+ - once tried inline assembly in Delphi
+ - parametric 3d modelling / teaching (Rhino grasshopper, autocad) 
  - billing system debugging (perl)
  - PCB design and prototyping
  - CNC machining
-
-
-## INTERESTS
-
- - math of life
- - linguistics
- - ergonomics
- - design thinking
- - infographics
